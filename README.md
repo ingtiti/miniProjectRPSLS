@@ -1,0 +1,2 @@
+# miniProjectRPSLS
+Coursera Python miniporojectRPSLS
